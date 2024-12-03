@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Byte Pi Cluster"
+excerpt: "Byte, a mini cluster with Raspberry Pi.<br/><img src='/images/bpc.png'>"
+github: https://github.com/YuWei-CH/Byte-Pi-Cluster
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Byte Pi Cluster is a Raspberry Pi-based mini cluster designed for distributed computing and educational purposes. This project aims to provide a platform for learning about clustering, distributed systems, and high-performance computing using low-cost, readily available hardware.
