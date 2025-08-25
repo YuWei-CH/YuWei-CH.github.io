@@ -1,11 +1,8 @@
 ---
-title: "reformWeb"
-excerpt: "A reform web UI implemented by Flask <br/><img src='/images/reformWeb-logo.png'>"
-github: https://github.com/gencorefacility/reformWeb
-browser: https://reform.bio.nyu.edu/
+title: "Travel-Planner"
+excerpt: "An AWS supported serverless architecture full-stack travel planning application.<br/><img src='/images/Travel-Planner.png'>"
+github: https://github.com/YuWei-CH/Travel-Planner
 collection: portfolio
 ---
 
-Fill the form with the required parameters. After submission, the data and files will be gathered and submitted to a message queue to run reform. If sucessful or failure, an e-mail will be sent to the e-mail address provided
-
-
+An AWS-based intelligent trip planning system that uses serverless architecture (Lambda, API Gateway, RDS, S3) and IaC (CloudFormation) to deliver personalized, scalable, and low-maintenance travel experiences.

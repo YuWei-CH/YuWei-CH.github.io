@@ -1,21 +1,11 @@
 ---
-title: "PCB Clock"
-excerpt: "RedSun_Clock is a PCB-based clock that I designed and developed independently. The project was guided by Mr.Ethan and Mr.Matthew during the Google Hardware Product Sprint (HPS2022 Summer). <br/><img src='/images/pcb_clock.png'>"
-github: https://github.com/YuWei-CH/RedSun_Clock
+title: "reformWeb"
+excerpt: "A reform web UI implemented by Flask <br/><img src='/images/reformWeb-logo.png'>"
+github: https://github.com/gencorefacility/reformWeb
+browser: https://reform.bio.nyu.edu/
 collection: portfolio
 ---
 
-This project consists of two main parts: Hardware and Software:
-
-**Hardware**
-The hardware part includes the design of the circuit board and the bill of materials (BOM). Essential components: LED Matrix
-Micro-controller(atmega328)
-Quartz crystal unit
-Printed Circuit Board
-
-**Software**
-The software part is composed of code written in Arduino, which drives the operation of the hardware. And I use KiCAD for PCB design and verification.
-
-
+Fill the form with the required parameters. After submission, the data and files will be gathered and submitted to a message queue to run reform. If sucessful or failure, an e-mail will be sent to the e-mail address provided
 
 
