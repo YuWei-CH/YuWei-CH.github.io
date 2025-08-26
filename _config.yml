@@ -21,14 +21,14 @@ repository               : "YuWei-CH/YuWei-CH.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yuwei(Peter) Sun"
   pronouns         : "He/His" 
-  bio              : "CS@NYU | HPC Assistant@NYU HPC | Research Intern@SARCHLAB"
-  location         : "New York"
-  employer         : "New York University"
+  bio              : "MCS@UIUC | Research@Flatiron Institue"
+  location         : "Urbana, IL"
+  employer         : "University of Illinois Urbana-Champaign"
   uri              : # URL
-  email            : "ys4680@nyu.edu" 
+  email            : "yuweis2@illinois.edu | ys4680@nyu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
